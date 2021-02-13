@@ -1,22 +1,52 @@
 ---
 title: "Innovation"
 date: 2021-02-12T19:16:28-08:00
-draft: true
+draft: false
 ---
 
+"Why can't we do this in an hour?"
+
+Velocity: experiments, explorations, investments
+
+What are indicators
+
+
+Small innovations
+Large innovations -- new fields, new products
+
+What accelerates velocity
+
+Developer workflows: check in, code review, test, deploy
+Stability: little time on failures, including reverts, etc
+Training
+Hiring
+Retention
+
+
+What accelerates innovation?
+
+Platforms
+Networks
+Users
+Brand
+Infrastructure
+
+
 *   Misaligned incentives around resourcing/investment prevent innovation
-    *   Innovator’s dilemma & solution
-        *   It’s easy to innovate into high-margin products that draft on core biz
-	*   Feature-teams can’t innovate
-	    *   Escaping the build trap
-	        *   Empowered
-		*   Then let’s assume you do those, then Innovation comes from ?
-		    *   “Creativity” - juxtaposition of ideas in two fields
-		            *   Within a team, it’s clear how cross-functional teams with embedded auxiliary folks support this kind of innovation
-			            *   In an organization, does this mean two execs in complementary orgs that are empowered and inclined to collaborate closely?
-				        *   Practioners
+*   Innovator’s dilemma & solution
+*   It’s easy to innovate into high-margin products that draft on core biz
+*   Feature-teams can’t innovate
+*   Escaping the build trap
+*   Empowered
+*   Then let’s assume you do those, then Innovation comes from ?
+*   “Creativity” - juxtaposition of ideas in two fields
+*   Within a team, it’s clear how cross-functional teams with embedded auxiliary folks support this kind of innovation
+*   In an organization, does this mean two execs in complementary orgs that are empowered and inclined to collaborate closely?
+*   Practioners
 
 ### Resources
+
+https://larahogan.me/blog/why-cant-they-just/
 
 [https://diff.substack.com/p/four-refoundings](https://diff.substack.com/p/four-refoundings)
 

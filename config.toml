@@ -2,6 +2,7 @@ baseURL = "https://sketches.lethain.com"
 languageCode = "en-us"
 title = "Exuberant Sketches"
 theme = "ananke"
+paginate = 1000
 [menu]
   [[menu.main]]
     name = "Staff Engineer"
