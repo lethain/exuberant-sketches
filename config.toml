@@ -2,3 +2,10 @@ baseURL = "https://sketches.lethain.com"
 languageCode = "en-us"
 title = "Exuberant Sketches"
 theme = "ananke"
+[menu]
+  [[menu.main]]
+    name = "Irrational Exuberance"
+    url = "https://lethain.com"
+  [[menu.main]]
+    name = "Staff Engineer"
+    url = "https://staffeng.com"
