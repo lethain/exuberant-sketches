@@ -4,8 +4,12 @@ title = "Exuberant Sketches"
 theme = "ananke"
 [menu]
   [[menu.main]]
-    name = "Irrational Exuberance"
-    url = "https://lethain.com"
-  [[menu.main]]
     name = "Staff Engineer"
     url = "https://staffeng.com"
+  [[menu.main]]
+    name = "An Elegant Puzzle"
+    url = "https://lethain.com/elegant-puzzle/"
+  [[menu.main]]
+    weight = 100
+    name = "Irrational Exuberance"
+    url = "https://lethain.com"
