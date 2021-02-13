@@ -1,0 +1,4 @@
+baseURL = "https://sketches.lethain.com"
+languageCode = "en-us"
+title = "Exuberant Sketches"
+theme = "ananke"
