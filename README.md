@@ -15,3 +15,6 @@ If you're on OSX, to run:
     hugo serve -D
 
 Then it should be fine.
+
+It uses [Tachyons](https://tachyons.io) for CSS, entirely
+because that is what the [Hugo Anake theme](https://themes.gohugo.io/gohugo-theme-ananke/) uses.
