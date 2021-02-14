@@ -4,9 +4,8 @@ date: 2021-02-12T19:16:28-08:00
 draft: false
 ---
 
-This section contains some data points around my book sales.
+Learn more about [Staff Engineer on staffeng.com](http://staffeng.com/book).
 
-How do I style tables in hugo, lol. Need to add bootstrap or figure out how this other thing works
 
 ## Sales
 

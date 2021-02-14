@@ -8,6 +8,7 @@ paginate = 1000
     name = "Will Larson"
 [params]
   mainSections = ["meta", "books", "posts"]
+  custom_css = ["/sketches.css"]
 [menu]
   [[menu.main]]
     name = "Staff Engineer"

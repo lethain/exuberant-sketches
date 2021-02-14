@@ -19,7 +19,7 @@ Periodically updated sales tracker.
 |---|---|---|
 | Kindle Digital | 4500 | 450 |
 | Hardcover | 6000 | 710 |
-| Audiobook | 1,500 | 234 }
+| Audiobook | 1,500 | 234 |
 | _total_ | 12,780 | 33,493 |
 
 Note that while all of the _total_ numberes are accurate, but some of the format breakdown
