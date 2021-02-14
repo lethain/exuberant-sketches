@@ -1,0 +1,12 @@
+table.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+table.table tr:nth-child(even){
+    background-color: #f2f2;
+}
+
+table.table td, table.table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
