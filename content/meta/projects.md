@@ -2,7 +2,6 @@
 title: "Project Ideas"
 date: 2021-02-12T19:16:28-08:00
 draft: false
-weight: 90
 ---
 
 Some potential projects to play with at some point
