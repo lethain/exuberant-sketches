@@ -4,6 +4,8 @@ date: 2021-02-12T19:16:28-08:00
 draft: false
 ---
 
+**Some of these links point to private google docs, which is how I used to manage my personal wiki. I will migrate them at some point, but don't hold your breath!**
+
 Some potential projects to play with at some point
 
 * [Cue app](https://docs.google.com/document/d/1u29S86j_OoeHZZyY8ZVh8uqAev-5NWUdTSc2WtXKTJg/edit#)

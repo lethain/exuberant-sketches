@@ -2,8 +2,10 @@
 title: "Writing Ideas"
 date: 2021-02-12T19:16:28-08:00
 draft: false
-weight: 80
 ---
+
+
+**Some of these links point to private google docs, which is how I used to manage my personal wiki. I will migrate them at some point, but don't hold your breath!**
 
 This page is a running backlog of topics that I'd like to write about at some point.
 
@@ -12,19 +14,6 @@ Stories from my own experiences:
 * Uber's 18 hour Postgres outage
 * Provisioning 2,000 services at Uber
 * Increment's founding story
-
-Book concepts:
-
-* "101 Ways to increase developer productivity"
-* [Infraststructure Engineering](/infra-eng-book)
-* [An Ethical Profession](/an-ethical-profession) aka "AEP2" aka sequel to An Elegant Puzzle (AEP1)
-* "Ten years in the valley" / "A career is a collection of stories"
-
-Talk ideas:
-
-* "40 year career" as a talk
-* Why limiting work-in-progress works
-* Measuring the unmeasurable / measurement in leadership in general
 
 Article concepts:
 
