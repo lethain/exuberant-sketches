@@ -18,7 +18,8 @@ Stories from my own experiences:
 Article concepts:
 
 * [Glue Work is mandatory](https://docs.google.com/document/d/1MJI8-I7j8gm0GjvpYtAkc7F9fHfmeMk7aOUMZOlN_kI/edit)
-* Great VPEs tolerate uncertainty and despite misalignment
+* [No surprises](https://docs.google.com/document/d/1C9TMK2HPo93JXtte8O8sbQjfEoTU05MlyDZXV9jz4ho/edit)
+* [Great VPEs tolerate uncertainty and despite misalignment](https://docs.google.com/document/d/1mb57kcSjC_0hhYhL_1w2xA9rzqXsIF8D4j7JtYGtbYw/edit)
 * Headcount planning with Headcount ratios (rather than fixed numbers)
 * “Investment thesis rather than ranked prioritiesp” e.g. don’t just stackrank priorities but blend them
 * “Novelty driven development” -- yeah, stop doing wasteful stuff to do a new thing
