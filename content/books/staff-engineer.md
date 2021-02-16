@@ -12,14 +12,15 @@ Learn more about [Staff Engineer on staffeng.com](http://staffeng.com/book).
 Periodically updated sales tracker.
 
 {{<table "table">}}
-| Format | 2021/2/13 |
-|---|---|
-| Kindle Digital | 700 |
-| Paperback | 773 |
-| Gumroad: Personal (1x) | 800 |
-| Gumroad: Team (15x) | 20 |
-| Gumroad: Company (100x) | 5 |
-| _total_ | 3,073 |
+| Format | 2021/2/13 | 2021/2/15 |
+|---|---|---|
+| Kindle Digital | 700 | 762 |
+| Paperback | 773 | 944 |
+| Gumroad: Personal (1x) | 800 | 818 |
+| Gumroad: Team (15x) | 20 | 20 |
+| Gumroad: Company (100x) | 5 | 5 |
+| _total_ | 3,073 | 3,324 |
+
 
 
 
