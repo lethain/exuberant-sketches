@@ -30,6 +30,8 @@ Article concepts:
 * “It’s OK to make some bad decisions” -- work across rounds not within them; learning from bad decisions and learning overall is more important than any individual decision; try to fail fast tho
 * "how to build cohesive hiring decisions in manager loops / interview loops"
 * “The Waiting Place” - dr suess book but also the havoc of illiquid paper money
+    * story of eng leader writin their network on the whiteboard at a previous co -- both lol, how did that happen and also, "a lot but not enough"
+    * is there a https://danluu.com/hiring-lemons/ for long-tenured leaders in general, but sort of inverse? e.g. do many of best leave field when financially prudent? (only remainers are _relatively speaking_ financially unsuccessful or have other psychological reasons for continuing to participate)
     * The emperor’s unicorn clothes — conviction and honesty when everyone is afraid of losing generational wealth. This is why we need better financial instruments to align incentives. Also the “alliance” career concept over ownership. Not mercenaries but allies    
 * “Stop selling vitamins.” / “Don’t write about vitamins”  e.g. Lara Hoagn article is about problem w/managers not just manager voltron
 * "External stakeholders equal internal chaos" - tl;dr -- companies that have a large amount of external stakeholders that they can’t ignore are a tirefire to work at. For example, many regulators in many countries who change their mind frequently == chaos. Even if your planning process is great, still chaos
