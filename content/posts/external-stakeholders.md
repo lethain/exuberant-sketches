@@ -21,9 +21,10 @@ working internationally across an increasingly large number of countries,
 and doing it while each of thoes countries is reimagining data privacy and data locality every six months...
 that gets hard.
 
-Stripe's has retained its ability to ship new product despite the immense pressure from
+Stripe has retained its ability to ship new product despite the immense pressure from
 their external stakeholders, and in my opinion that's their biggest accomplishment
 as a scaled business. This complements their key insights at previous scaling points:
 eengineers are the only stakeholder that matter at small startups, and
-platform fees grow along with their users' growth.
+platform switching costs are commensurate with a platform's capabilities.
+
 
