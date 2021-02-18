@@ -15,7 +15,12 @@ Stories from my own experiences:
 * Provisioning 2,000 services at Uber
 * Increment's founding story
 
+Article drafts:
+
+* [External stakeholders create uncertainty](/posts/external-stakeholders)
+
 Article concepts:
+
 
 * [Glue Work is mandatory](https://docs.google.com/document/d/1MJI8-I7j8gm0GjvpYtAkc7F9fHfmeMk7aOUMZOlN_kI/edit)
 * [No surprises](https://docs.google.com/document/d/1C9TMK2HPo93JXtte8O8sbQjfEoTU05MlyDZXV9jz4ho/edit)
@@ -33,7 +38,6 @@ Article concepts:
     * is there a https://danluu.com/hiring-lemons/ for long-tenured leaders in general, but sort of inverse? e.g. do many of best leave field when financially prudent? (only remainers are _relatively speaking_ financially unsuccessful or have other psychological reasons for continuing to participate)
     * The emperor’s unicorn clothes — conviction and honesty when everyone is afraid of losing generational wealth. This is why we need better financial instruments to align incentives. Also the “alliance” career concept over ownership. Not mercenaries but allies    
 * “Stop selling vitamins.” / “Don’t write about vitamins”  e.g. Lara Hoagn article is about problem w/managers not just manager voltron
-* "External stakeholders equal internal chaos" - tl;dr -- companies that have a large amount of external stakeholders that they can’t ignore are a tirefire to work at. For example, many regulators in many countries who change their mind frequently == chaos. Even if your planning process is great, still chaos
 * "Brutalist programming" ala brutalist architecture
 * https://lethain.com/engineering-manager-archetypes/
 * "Working across timeframes rather than within timeframes" https://lethain.com/iterative-elimination-tournaments/
