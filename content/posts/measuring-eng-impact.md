@@ -4,6 +4,9 @@ date: 2021-02-25T18:52:09-08:00
 draft: false
 ---
 
+*This became [Measures of engineering impact](https://lethain.com/measures-of-engineering-impact/).*
+
+
 At today's engineering leader breakfast (an extremely virtual breakfast, these days),
 we chatted about measuring engineering impact, which is quite different from measuring
 engineering velocity, even though velocity is a major input into impact.
