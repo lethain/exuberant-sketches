@@ -10,6 +10,7 @@ some of what I've wrote on this topic:
 
 * [Writing for Consumption](https://lethain.com/writing-for-consumption/) (2008!)- mainly included because I wrote it in 2008 and it's funny to read my old writing style
 * [How to be a tech influencer](https://lethain.com/tech-influencer/) (2021) - my advice on how to do tech content distribution
+* [Why and How I write](/posts/why-write/) (2021)
 * [What I learned writing An Elegant Puzzle](https://lethain.com/learned-writing-book/) (2019?)
 * [Experimenting with content and distribution](https://lethain.com/experimenting-with-content-and-distribution/) (2018)
 
