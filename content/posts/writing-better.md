@@ -19,12 +19,13 @@ hence including it on *[Exuberant Sketches](/)* rather than *[Irrational Exubera
 
 A paraphrased version of the question is:
 
-    You're able to capture and explain thought processes and heuristics developed by engineers through experience.
-    You explain in plain language social subtleties within organizations that everyone experiences but can be hard to describe.
-    Is this type of writing a skill something that gets better with practice?
-    I want to be able to write about engineering.
-    I have the ability to articulate thoughts and ideas, but in fragments.
-    I'm not able to organize them into something linear under a single topic.
+
+> You're able to capture and explain thought processes and heuristics developed by engineers through experience.
+> You explain in plain language social subtleties within organizations that everyone experiences but can be hard to describe.
+> Is this type of writing a skill something that gets better with practice?
+> I want to be able to write about engineering.
+> I have the ability to articulate thoughts and ideas, but in fragments.
+> I'm not able to organize them into something linear under a single topic.
 
 I've developed a somewhat distinctive written style almost entirely by accident,
 and I think it comes down to a few things:
