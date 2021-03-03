@@ -4,7 +4,7 @@ date: 2021-03-02T08:12:06-08:00
 draft: false
 ---
 
-I recently got a note from someone asking about writing,
+I recently got a note from [Bianca](https://twitter.com/__biancat) asking about writing,
 which is a topic I've tried to write about before, 
 some of what I've wrote on this topic:
 
@@ -18,7 +18,6 @@ That said, I haven't really nailed what I want to say, and this is just a collec
 hence including it on *[Exuberant Sketches](/)* rather than *[Irrational Exuberance](https://lethain.com/)*.
 
 A paraphrased version of the question is:
-
 
 > You're able to capture and explain thought processes and heuristics developed by engineers through experience.
 > You explain in plain language social subtleties within organizations that everyone experiences but can be hard to describe.
